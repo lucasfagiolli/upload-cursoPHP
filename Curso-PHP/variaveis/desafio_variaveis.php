@@ -12,6 +12,8 @@ $esse = 'desafio';
 
 echo "Nossa! Eu consegui responder esse desafio.";
 
+//Responder só com $a
+
 //$a = resposta
 echo '<br>';
 echo "$a! {$$a} {$$$a} {$$$$a} {$$$$$a} {$$$$$$a}.";
